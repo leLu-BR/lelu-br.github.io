@@ -6,46 +6,59 @@
 
 body {
     background: url(../images/holy_light.jpg) no-repeat top center/cover;
-    
+
 }
+
+.container {}
 
 h1 {
     font-family: 'Ysabeau Infant', sans-serif;
     font-size: 40px;
     color: cornsilk;
     margin: 50px auto;
+    justify-content: center;
+    width: 65%;
+
 }
 
 p {
     font-size: 1.25em;
-    color: skyblue;    
+    color: skyblue;
+
 }
 
 .topps {
-    margin: 100px auto;
-    width: 60%;
-    text-align: center;   
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+    margin: 50px auto;
+    text-align: center;
+
 }
 
 .topps p {
-    display: flex;    
     padding: 10px 0;
+
 }
 
 .fraseimg {
-    margin: 20px auto;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
     text-align: center;
-    display: block;
+
 }
 
 .fraseimg p {
     padding: 5px 0;
+
 }
 
 footer p {
     font-size: 20px;
     padding: 5px;
-            
+
 }
 
 footer a {
@@ -53,9 +66,23 @@ footer a {
     color: bisque;
     text-decoration: none;
     margin: 0 5px;
+
 }
 
 footer {
-    position: fixed;
-    bottom: 2%;    
+    position: relative;
+    display: flex;
+    margin: 25px auto;
+    width: 30%;
+    flex-direction: inline-bloxk;
+
+}
+
+#pray {
+    color: dodgerblue;
+    font-size: 50px;
+}
+
+.footerbox {
+    margin: 0 5px;
 }
