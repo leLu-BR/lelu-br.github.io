@@ -22,7 +22,6 @@
 <body>
     <div class="container">
         <h1>Deus ajuda quem faz o esforço, quem tenta, quem dá o sangue. Nem todo mundo madruga, então...</h1>
-
         <div class="topps">
             <p>Os últimos serão os primeiros não diz muito sobre os primeiros, mas sobre os últimos.
                 Os primeiros são os privilegiados, os últimos aqueles que lutam para sobreviver dignamente.</p>
@@ -31,7 +30,6 @@
                 intelectuais.
                 Dessa forma, os seres humanos seriam mais humanos, mais solidários, mais fraternos.</p>
         </div>
-
         <div class="fraseimg">
             <p>"If your prayer is true, generous, and good, may it be answered."</p>
             <p>Se a sua prece é verdadeira, generosa, e boa, que seja atendida.</p>
@@ -41,8 +39,7 @@
 <footer>
     <div class="footerbox">
         <p>Busca por inspiração ? <a href="https://www.pensador.com/" target="_blank">Pensador.com</p>
-        <i class="ph ph-hands-praying" id="pray"></i></a>
-        
+        <i class="ph ph-hands-praying" id="pray"></i></a>        
     </div>
     <div class="footerbox">
         <p>Foto de <a
