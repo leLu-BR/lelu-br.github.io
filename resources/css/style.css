@@ -5,12 +5,11 @@
 }
 
 body {
-    background: url(../images/holy_light.jpg) no-repeat top center/cover;
-    
+    background: url(../images/holy_light.jpg) no-repeat top center/cover;    
 }
 
 .quotation {
-    color:aliceblue;
+    color: aliceblue;
 }
 
 h1 {
@@ -19,14 +18,12 @@ h1 {
     color: cornsilk;
     margin: 50px auto;
     justify-content: center;
-    width: 65%;
-        
+    width: 65%;        
 }
 
 p {
     font-size: 1.25em;
-    color: skyblue;
-        
+    color: skyblue;        
 }
 
 .topps {
@@ -34,13 +31,11 @@ p {
     width: 50%;
     flex-direction: column;
     margin: 50px auto;
-    text-align: center;
-       
+    text-align: center;       
 }
 
 .topps p {      
-    padding: 10px 0;
-        
+    padding: 10px 0;        
 }
 
 .fraseimg {
@@ -48,19 +43,16 @@ p {
     display: flex;
     flex-direction: column;
     width: 50%;
-    text-align: center;
-    
+    text-align: center;    
 }
 
 .fraseimg p {
-    padding: 5px 0;
-    
+    padding: 5px 0;    
 }
 
 footer p {
     font-size: 20px;
-    padding: 5px;
-               
+    padding: 5px;               
 }
 
 footer a {
@@ -74,8 +66,7 @@ footer {
     display: flex;
     margin: 25px auto;
     width: 30%;
-    flex-direction: inline-block;
-        
+    flex-direction: inline-block;       
 }
 
 #pray {
