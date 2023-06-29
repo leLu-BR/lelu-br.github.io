@@ -76,7 +76,7 @@ footer {
     display: flex;
     margin: 25px auto;
     width: 30%;
-    flex-direction: inline-bloxk;
+    flex-direction: inline-block;
         
 }
 
