@@ -9,8 +9,8 @@ body {
     
 }
 
-.container {
-    
+.quotation {
+    color:aliceblue;
 }
 
 h1 {
@@ -66,9 +66,7 @@ footer p {
 footer a {
     font-family: 'Roboto', sans-serif;
     color: bisque;
-    text-decoration: none;
-    margin: 0 5px;
-    
+    text-decoration: none;     
 }
 
 footer {
@@ -83,7 +81,4 @@ footer {
 #pray {
     color:dodgerblue;
     font-size: 50px;
-}
-.footerbox {
-    margin: 0 5px;
 }
